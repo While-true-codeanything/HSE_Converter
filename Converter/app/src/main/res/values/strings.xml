@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="code">Код валюты:</string>
+    <string name="ret">Ошибка! \nПопробовать снова?</string>
+</resources>
